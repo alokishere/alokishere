@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alok Vishwakarm</h1>
+<h1 align="center">Hi 👋, I'm Alok Vishwakarma</h1>
 <h3 align="center">A passionate Frontend Developer and Fullstack Learner from India 🇮🇳</h3>
 
 ---
