@@ -1,47 +1,71 @@
 <h1 align="center">Hi 👋, I'm Alok Vishwakarma</h1>
-<h3 align="center">A passionate Frontend Developer and Fullstack Learner from India 🇮🇳</h3>
+<h3 align="center">Full-Stack Developer (MERN) | JavaScript • Node.js • React • Java</h3>
 
 ---
 
-- 🔭 I’m currently learning **Fullstack Web Development**
-- 🌱 Exploring **DSA, Aptitude & Reasoning**, and polishing my **Frontend skills**
-- 👨‍💻 My Portfolio: [itsalok.netlify.app](https://itsalok.netlify.app)
-- 💬 Ask me about **HTML, CSS, JavaScript, GSAP, Locomotive, SASS, Tailwind, React**
-- 🖌️ I also use **Canva** for design & creative work
-- 📫 Reach me through the socials below 👇
-- ⚡ Fun fact: _I don't just write code, I bring ideas to life!_
+### 🚀 About Me
+I’m a passionate **Full-Stack Developer** from India 🇮🇳, focused on building clean UI and scalable backend systems.  
+I enjoy converting ideas into functional products using modern JavaScript technologies.
+
+- 🔭 Currently working on **MERN stack projects**  
+- 💡 Comfortable with both **Frontend + Backend**  
+- 🧠 Exploring **DSA, System Design Basics & Performance Optimization**  
+- 🎨 Love creating smooth **UI animations (GSAP, Locomotive)**  
+- ⚙️ Tools I use daily: **VS Code, Git, GitHub, Postman**  
+- 👨‍💻 Portfolio → **https://itsalok.netlify.app**  
+- 📫 Reach me anytime through my socials below
 
 ---
 
-### 🌐 Connect with me:
-
+### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.instagram.com/_alok_coder/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://x.com/alok_vihwakarma/status/1906746938688434420" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://x.com/alok_vihwakarma" target="_blank">
+    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/alok-webdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🛠️ Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,react,java,gsap,vscode,github,canva" />
+#### **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,gsap" />
+
+#### **Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+#### **Programming Languages**
+<img src="https://skillicons.dev/icons?i=javascript,java" />
+
+#### **Version Control & Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+#### **Design**
+<img src="https://skillicons.dev/icons?i=figma,canva" />
 
 ---
 
-### 📊 GitHub Stats:
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alokishere&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokishere&layout=compact&theme=tokyonight" height="160" />
+</p>
 
-![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokishere&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alokishere&layout=compact&theme=tokyonight)
+---
+
+### 🏆 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alokishere&theme=tokyonight" />
+</p>
 
 ---
 
 <p align="center">
-  Built with ❤️ by <strong>Alok Vishwakarm</strong>
+  Made with ❤️ by <strong>Alok Vishwakarma</strong>
 </p>
