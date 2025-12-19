@@ -145,18 +145,6 @@ const alok = {
 
 ---
 
-## 🎵 Spotify Playing
-
-<div align="center">
-  
-[![Spotify](https://novatorem-alokishere.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
-
-</div>
-
-> **Note:** Connect your Spotify using [novatorem](https://github.com/novatorem/novatorem) for this feature
-
----
-
 ## 📬 Get In Touch
 
 <div align="center">
@@ -165,7 +153,7 @@ const alok = {
 
 💼 **Open for:** Freelance Projects | Full-time Opportunities | Open Source Collaboration
 
-📧 **Email:** your.email@example.com
+📧 **Email:** alokvishwakarmabdh@gmail.com
 
 🌐 **Portfolio:** [itsalok.netlify.app](https://itsalok.netlify.app)
 
