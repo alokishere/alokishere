@@ -2,7 +2,7 @@
 
 # 👨‍💻 Alok Vishwakarma
 
-### Full-Stack Developer | MERN Specialist | UI/UX Enthusiast
+### Full-Stack Developer | MERN Specialist | UI/UX Enthusiast 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://itsalok.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-webdev/)
