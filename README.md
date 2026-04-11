@@ -21,7 +21,7 @@
 const alok = {
     location: "India 🇮🇳",
     role: "Full-Stack Developer",
-    code: ["JavaScript", "Java", "HTML/CSS"],
+    code: ["JavaScript", "Java", "HTML/CSS", "React", "Node"],
     technologies: {
         frontEnd: {
             frameworks: ["React", "Next.js"],
