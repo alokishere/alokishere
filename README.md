@@ -11,7 +11,7 @@ Building scalable web applications with modern JavaScript technologies.
 <img src="https://img.shields.io/badge/Portfolio-alokdev.in-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/alok-webdev/">
+<a href="https://www.linkedin.com/in/alok-js/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -173,7 +173,7 @@ React • Tailwind CSS • GSAP
 <p align="center">
 
 <a href="https://alokdev.in">🌐 Portfolio</a> •
-<a href="https://www.linkedin.com/in/alok-webdev/">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/alok-js/">LinkedIn</a> •
 <a href="mailto:alokvishwakarmabdh@gmail.com">Email</a>
 
 </p>
